@@ -1,6 +1,6 @@
 # Notifications Widget
 
-
+The notifications widget is a component designed to contain editable notifications depending on the need for use. Using reactjs composition pattern.
 
 ![Image Preview](image-preview.png)
 
